@@ -1,27 +1,27 @@
-Term	                Meaning	                                                Example
+Term	                  Meaning	                                                Example
 
 --------------------    -----------------------------                           --------------------
-Repository (Repo)	Your project folder on GitHub	                        website-content
-File	                A document inside your repository	                homepage.md
-Branch	                A separate workspace for making changes	                content-update
-Main (main)	        The primary branch of the project	                main
-Commit	                Saving a set of changes with a message	                Update homepage content
+Repository (Repo).    	Your project folder on GitHub	                        website-content
+File	                  A document inside your repository	                    homepage.md
+Branch	                A separate workspace for making changes	              content-update
+Main (main)	            The primary branch of the project	                    main
+Commit	                Saving a set of changes with a message	              Update homepage content
 Commit message	        Short description of what you changed	                Fix spelling errors
-Push	                Send your local changes to GitHub	                git push
-Pull	                Get the latest changes from GitHub	                git pull
-Pull Request (PR)	Request to merge your changes into another branch	content-update → main
-Merge	                Combine changes from one branch into another	        Merge PR into main
-Clone	                Download a GitHub repository to your computer	        git clone ...
-Fork	                Make your own copy of someone else's repository	        Fork a public project
-Edit	                Modify an existing file	                                Change website text
-Add file	        Create/upload a new file	                        Add about.md
+Push	                  Send your local changes to GitHub	                    git push
+Pull	                  Get the latest changes from GitHub	                  git pull
+Pull Request (PR)	      Request to merge your changes into another branch	    content-update → main
+Merge	                  Combine changes from one branch into another	        Merge PR into main
+Clone	                  Download a GitHub repository to your computer	        git clone ...
+Fork	                  Make your own copy of someone else's repository	      Fork a public project
+Edit	                  Modify an existing file	                              Change website text
+Add file	              Create/upload a new file	                            Add about.md
 Rename	                Change a file's name	                                about-us.md → about.md
 Delete	                Remove a file	                                        Delete an outdated article
-Upload	                Add files from your computer to GitHub	                Upload images/content
+Upload	                Add files from your computer to GitHub	              Upload images/content
 Commit directly	        Save changes directly to the selected branch	        Commit to main
-Pull Request review	Someone checks your changes before merging	        Content review
-Approve	                Reviewer accepts your PR	                        Approved
-History	                Record of previous changes	                        See who changed the content
-Revert	                Undo a previous commit	                                Restore older content
-README	                File explaining the project	                        README.md
-.gitignore	        Tells Git which files not to track	                Temporary files
+Pull Request            review	Someone checks your changes before merging	  Content review
+Approve	                Reviewer accepts your PR	                            Approved
+History	                Record of previous changes	                          See who changed the content
+Revert	                Undo a previous commit	                              Restore older content
+README	                File explaining the project	                          README.md
+.gitignore	            Tells Git which files not to track	                  Temporary files
